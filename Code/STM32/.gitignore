@@ -1,0 +1,30 @@
+# VS Code configuration files
+.vscode/ipch/
+.vscode/.cmaketools/
+.vscode/browse.vc.db
+
+# STM32CubeIDE
+Debug/
+Release/
+.settings/
+
+# Build outputs (CMake / Make)
+/build/
+/out/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# Compiler outputs
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.su
