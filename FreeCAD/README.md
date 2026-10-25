@@ -6,4 +6,6 @@
 
 在 FreeCAD 選取物件後執行巨集 `dump_coords`。剪貼簿和模型旁邊的 `coords.txt` 是同一段文字。`coords.txt` 不進 git。
 
+試算表 D 欄是給人看的簡稱。改完後執行巨集 `sync_aliases`，同一列 C 欄的別名會跟上去。
+
 [回到主頁](../README.zh-TW.md)
