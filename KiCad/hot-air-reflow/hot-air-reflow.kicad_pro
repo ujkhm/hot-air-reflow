@@ -52,7 +52,20 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "duplicate_footprints|73300000|117100000|0c493c18-d1df-4da2-aefa-80da18657e97|740e0534-b8a5-4109-aa11-8473b489889d",
+          ""
+        ],
+        [
+          "extra_footprint|137700000|134700000|740e0534-b8a5-4109-aa11-8473b489889d|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "extra_footprint|73300000|117100000|0c493c18-d1df-4da2-aefa-80da18657e97|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },

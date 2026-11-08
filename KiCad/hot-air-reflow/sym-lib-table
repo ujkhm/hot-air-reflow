@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "TPS562201DDCR")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/TPS562201DDCR/TPS562201DDCR.kicad_sym")(options "")(descr ""))
   (lib (name "Terminal-block")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/Terminal-block/Terminal-block.kicad_sym")(options "")(descr ""))
+  (lib (name "GD25Q16ESIG")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/GD25Q16ESIG/GD25Q16ESIG.kicad_sym")(options "")(descr ""))
 )
