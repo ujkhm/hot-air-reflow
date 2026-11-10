@@ -1,0 +1,115 @@
+(kicad_symbol_lib
+  (version 20211014)
+  (generator https://github.com/tangsangsimida/EasyKiConverter)
+  (symbol "MBR20100CT_C173465"
+    (in_bom yes)
+    (on_board yes)
+    (property
+      "Reference"
+      "D"
+      (id 0)
+      (at 7.62 7.62 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) )
+    )
+    (property
+      "Value"
+      "MBR20100CT_C173465"
+      (id 1)
+      (at 7.62 -10.16 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) )
+    )
+    (property
+      "Footprint"
+      "MBR20100CT:TO-220AB-3_L10.4-W4.6-P2.54-T"
+      (id 2)
+      (at 7.62 -12.70 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "Datasheet"
+      "https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Jiangsu-Yutai-Elec-MBR20100CT_C173465.html"
+      (id 3)
+      (at 7.62 -15.24 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "Manufacturer"
+      "MDD(辰达半导体)"
+      (id 4)
+      (at 7.62 -17.78 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "LCSC Part"
+      "C173465"
+      (id 5)
+      (at 7.62 -20.32 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "ki_description"
+      "MBR20100CT"
+      (id 6)
+      (at 7.62 -22.86 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (polyline
+      (pts (xy 8.89 1.52) (xy 8.89 -1.52))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts (xy 8.89 -3.56) (xy 8.89 -6.60))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts (xy 6.35 0.00) (xy 3.81 0.00))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts (xy 6.35 -5.08) (xy 3.81 -5.08))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts (xy 8.89 0.00) (xy 10.16 0.00) (xy 10.16 -2.54) (xy 10.16 -5.08) (xy 8.89 -5.08))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts (xy 11.43 -2.54) (xy 10.16 -2.54))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts (xy 6.35 -1.52) (xy 8.89 0.00) (xy 6.35 1.52) (xy 6.35 -1.52))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts (xy 6.35 -6.60) (xy 8.89 -5.08) (xy 6.35 -3.56) (xy 6.35 -6.60))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (pin unspecified line
+      (at 0.00 0.00 0)
+      (length 3.81)
+      (name "A" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "1" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+    (pin unspecified line
+      (at 15.24 -2.54 180)
+      (length 3.81)
+      (name "C" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "2" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+    (pin unspecified line
+      (at 0.00 -5.08 0)
+      (length 3.81)
+      (name "A" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "3" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+  )
+)
