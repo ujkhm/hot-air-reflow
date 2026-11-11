@@ -8,4 +8,6 @@
   (lib (name "INA181A2IDBVR")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/INA181A2IDBVR")(options "")(descr ""))
   (lib (name "MBR20100CT")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/MBR20100CT")(options "")(descr ""))
   (lib (name "PH35V1000M10X17")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/PH35V1000M10X17")(options "")(descr ""))
+  (lib (name "CT3063")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/CT3063")(options "")(descr ""))
+  (lib (name "BT138-600E")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/BT138-600E")(options "")(descr ""))
 )

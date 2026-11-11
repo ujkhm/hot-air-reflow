@@ -1,0 +1,117 @@
+(kicad_symbol_lib
+  (version 20211014)
+  (generator https://github.com/tangsangsimida/EasyKiConverter)
+  (symbol "BT138-600E_C14796"
+    (in_bom yes)
+    (on_board yes)
+    (property
+      "Reference"
+      "Q"
+      (id 0)
+      (at 0.00 7.62 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) )
+    )
+    (property
+      "Value"
+      "BT138-600E_C14796"
+      (id 1)
+      (at 0.00 -10.16 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) )
+    )
+    (property
+      "Footprint"
+      "BT138-600E:TO-220-3_L10.0-W4.5-P2.54-L"
+      (id 2)
+      (at 0.00 -12.70 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "Datasheet"
+      "https://lcsc.com/product-detail/NXP-MCU_NXP_BT138-600E_BT138-600E_C14796.html"
+      (id 3)
+      (at 0.00 -15.24 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "Manufacturer"
+      "WeEn(瑞能)"
+      (id 4)
+      (at 0.00 -17.78 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "LCSC Part"
+      "C14796"
+      (id 5)
+      (at 0.00 -20.32 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "ki_keywords"
+      "C14796 BT138"
+      (id 6)
+      (at 0.00 -22.86 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "ki_description"
+      "BT138-600E,127"
+      (id 7)
+      (at 0.00 -25.40 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (polyline
+      (pts (xy -1.27 5.08) (xy 1.27 2.54) (xy -1.27 0.00) (xy -1.27 5.08))
+      (stroke (width 0.254) (type default))
+      (fill (type background))
+    )
+    (polyline
+      (pts (xy 1.27 0.00) (xy -1.27 -2.54) (xy 1.27 -5.08) (xy 1.27 0.00))
+      (stroke (width 0.254) (type default))
+      (fill (type background))
+    )
+    (polyline
+      (pts (xy -1.27 0.00) (xy -1.27 -5.08))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts (xy 1.27 0.00) (xy 1.27 5.08))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts (xy -3.81 0.00) (xy -1.27 0.00))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts (xy 1.27 0.00) (xy 3.81 0.00))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts (xy 1.27 -1.27) (xy 3.81 -2.54))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (pin unspecified line
+      (at 8.89 0.00 180)
+      (length 5.08)
+      (name "T1" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "1" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+    (pin unspecified line
+      (at -8.89 0.00 0)
+      (length 5.08)
+      (name "T2" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "2" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+    (pin unspecified line
+      (at 8.89 -2.54 180)
+      (length 5.08)
+      (name "G" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "3" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+  )
+)

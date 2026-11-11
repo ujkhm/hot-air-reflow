@@ -1,0 +1,112 @@
+(kicad_symbol_lib
+  (version 20211014)
+  (generator https://github.com/tangsangsimida/EasyKiConverter)
+  (symbol "CT3063_C191853"
+    (in_bom yes)
+    (on_board yes)
+    (property
+      "Reference"
+      "U"
+      (id 0)
+      (at 0.00 7.62 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) )
+    )
+    (property
+      "Value"
+      "CT3063_C191853"
+      (id 1)
+      (at 0.00 -10.16 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) )
+    )
+    (property
+      "Footprint"
+      "CT3063:SOP-6_L7.1-W6.5-P2.54-LS10.1-BL"
+      (id 2)
+      (at 0.00 -12.70 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "Datasheet"
+      "https://lcsc.com/product-detail/Others_CT-Micro-International_CT3063-S-T1-HZD_CT-Micro-International-CT3063-S-T1-HZD_C191853.html"
+      (id 3)
+      (at 0.00 -15.24 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "Manufacturer"
+      "CT MICRO"
+      (id 4)
+      (at 0.00 -17.78 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "LCSC Part"
+      "C191853"
+      (id 5)
+      (at 0.00 -20.32 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "ki_keywords"
+      "C191853 CT3063"
+      (id 6)
+      (at 0.00 -22.86 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "ki_description"
+      "CT3063(S)(T1)"
+      (id 7)
+      (at 0.00 -25.40 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (rectangle
+      (start -7.62 5.08)
+      (end 7.62 -5.08)
+      (stroke (width 0.254) (type default))
+      (fill (type background))
+    )
+    (circle
+      (center -6.35 3.81)
+      (radius 0.38)
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (pin unspecified line
+      (at -10.16 2.54 0)
+      (length 2.54)
+      (name "A" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "1" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+    (pin unspecified line
+      (at -10.16 0.00 0)
+      (length 2.54)
+      (name "C" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "2" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+    (pin unspecified line
+      (at -10.16 -2.54 0)
+      (length 2.54)
+      (name "NC" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "3" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+    (pin unspecified line
+      (at 10.16 -2.54 180)
+      (length 2.54)
+      (name "MT2" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "4" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+    (pin unspecified line
+      (at 10.16 0.00 180)
+      (length 2.54)
+      (name "NC" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "5" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+    (pin unspecified line
+      (at 10.16 2.54 180)
+      (length 2.54)
+      (name "MT1" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "6" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+  )
+)
