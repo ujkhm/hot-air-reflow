@@ -112,6 +112,26 @@
 			<locationURI>PARENT-1-PROJECT_LOC/Core/Src/main.c</locationURI>
 		</link>
 		<link>
+			<name>Application/User/Core/board.c</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Core/Src/board.c</locationURI>
+		</link>
+		<link>
+			<name>Application/User/Core/board.h</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Core/Inc/board.h</locationURI>
+		</link>
+		<link>
+			<name>Application/User/Core/app.h</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Core/Inc/app.h</locationURI>
+		</link>
+		<link>
+			<name>Application/User/Core/app.c</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Core/Src/app.c</locationURI>
+		</link>
+		<link>
 			<name>Application/User/Core/stm32f1xx_hal_msp.c</name>
 			<type>1</type>
 			<locationURI>PARENT-1-PROJECT_LOC/Core/Src/stm32f1xx_hal_msp.c</locationURI>
