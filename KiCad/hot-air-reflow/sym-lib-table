@@ -10,4 +10,5 @@
   (lib (name "PH35V1000M10X17")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/PH35V1000M10X17/PH35V1000M10X17.kicad_sym")(options "")(descr ""))
   (lib (name "CT3063")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/CT3063/CT3063.kicad_sym")(options "")(descr ""))
   (lib (name "BT138-600E")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/BT138-600E/BT138-600E.kicad_sym")(options "")(descr ""))
+  (lib (name "14D271K")(type "KiCad")(uri "${KIPRJMOD}/symbols and footprints.pretty/14D271K/14D271K.kicad_sym")(options "")(descr ""))
 )

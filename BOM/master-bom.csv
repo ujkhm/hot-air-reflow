@@ -1,0 +1,2 @@
+﻿Item,Name,Qty,Description
+1,Circuit board,1,"電路板 BOM：BOM/circuit-board-bom.csv。互動式 HTML BOM：BOM/circuit-board-interactive-bom.html。兩者都在專案根目錄的 BOM 資料夾。"

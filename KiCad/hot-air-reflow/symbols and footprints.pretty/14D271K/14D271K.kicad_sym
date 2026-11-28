@@ -1,0 +1,73 @@
+(kicad_symbol_lib
+  (version 20211014)
+  (generator https://github.com/tangsangsimida/EasyKiConverter)
+  (symbol "14D271K_C49072888"
+    (in_bom yes)
+    (on_board yes)
+    (property
+      "Reference"
+      "R"
+      (id 0)
+      (at 5.08 7.62 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) )
+    )
+    (property
+      "Value"
+      "14D271K_C49072888"
+      (id 1)
+      (at 5.08 -7.62 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) )
+    )
+    (property
+      "Footprint"
+      "14D271K:RES-TH_L16.0-W5.1-P7.50-D0.8-S2.40"
+      (id 2)
+      (at 5.08 -10.16 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "Manufacturer"
+      "R+O(宏嘉诚)"
+      (id 4)
+      (at 5.08 -12.70 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "LCSC Part"
+      "C49072888"
+      (id 5)
+      (at 5.08 -15.24 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (property
+      "ki_description"
+      "14D271K"
+      (id 6)
+      (at 5.08 -17.78 0)
+      (effects (font (size 1.27 1.27) (thickness 0) ) hide)
+    )
+    (rectangle
+      (start 2.54 1.02)
+      (end 7.62 -1.02)
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (polyline
+      (pts (xy 6.60 2.03) (xy 3.81 -2.03) (xy 2.54 -2.03))
+      (stroke (width 0.254) (type default))
+      (fill (type none))
+    )
+    (pin unspecified line
+      (at 0.00 0.00 0)
+      (length 2.54)
+      (name "1" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "1" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+    (pin unspecified line
+      (at 10.16 0.00 180)
+      (length 2.54)
+      (name "2" (effects (font (size 1.27 1.27) (thickness 0) )))
+      (number "2" (effects (font (size 1.27 1.27) (thickness 0) )))
+    )
+  )
+)
