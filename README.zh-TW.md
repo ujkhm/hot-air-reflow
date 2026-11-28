@@ -9,14 +9,13 @@
 ```
 hot-air-reflow
 ├── FreeCAD/                      爐體。FCStd 放這裡
-│   └── parts/pcb-edge-post/      電路板固定塊（STEP、輪廓 DXF、產生腳本）
 ├── KiCad/hot-air-reflow/         控制板
 ├── BOM/                          料單
 ├── Code/STM32/hot-air-reflow/    STM32CubeIDE + HAL 韌體
 └── scripts/                      從 FreeCAD 模型讀座標、同步別名
 ```
 
-電路板固定塊的實體是 `FreeCAD/parts/pcb-edge-post/pcb-edge-post.step`。幾何本身帶尺寸。板子分析輸出放在 `KiCad/hot-air-reflow/analysis/`，跟 KiCad 專案放一起。
+板子分析輸出放在 `KiCad/hot-air-reflow/analysis/`，跟 KiCad 專案放一起。
 
 問結構時寫模型樹上的物件名稱；要貼座標就在 FreeCAD 執行巨集 `dump_coords`。
 

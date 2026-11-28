@@ -9,14 +9,13 @@ A closed-loop hot-air reflow oven for double-sided SMT, built from scratch. The 
 ```
 hot-air-reflow
 ├── FreeCAD/                      oven model (save the FCStd here)
-│   └── parts/pcb-edge-post/      PCB edge post (STEP, profile DXF, generator)
 ├── KiCad/hot-air-reflow/         control board
 ├── BOM/                          bills of materials
 ├── Code/STM32/hot-air-reflow/    STM32CubeIDE + HAL firmware
 └── scripts/                      read coordinates and sync aliases
 ```
 
-The PCB edge post solid is `FreeCAD/parts/pcb-edge-post/pcb-edge-post.step`. The geometry carries the dimensions. Board-analysis output stays in `KiCad/hot-air-reflow/analysis/`, next to the KiCad project.
+Board-analysis output stays in `KiCad/hot-air-reflow/analysis/`, next to the KiCad project.
 
 ## License
 
